@@ -6,5 +6,5 @@ Results are printed after running the code.
 
 Correct final result:
 <p align="center">
-  <img width="813" height="312" src="./readme_files/result.png">
+  <img width="542" height="208" src="./readme_files/result.png">
 </p>
